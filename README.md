@@ -1,6 +1,8 @@
 Сәлеметсіз ба! arduino UNO патформасына қазақша әріптерді енгізу мүмкіндігін жасадық. Төмендегі орысша әріптеріне қазақ әріптерін қостық
 https://github.com/ssilver2007/LCD_1602_RUS
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zqnYTexQu8I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+https://www.youtube.com/watch?v=zqnYTexQu8I
+
 # LCD_1602_KAZ
 Arduino LCD 16x02 display with I2C interface RUSSIAN with NO CYRILLIC symbols set
 
